@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Olá, eu sou belzinn07!
 
-<!--
-**belzinn07/belzinn07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu perfil no GitHub! Sou estudante de informática apaixonado por desenvolvimento e tecnologia. Aqui você encontrará meus projetos, ideias e contribuições para a comunidade open source.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projeto em Destaque
+
+- [Desenvolvimento_java](https://github.com/belzinn07/Desenvolvimento_java)
+
+---
+
+## 🛠️ Principais Habilidades
+
+- **Java**
+- **PHP**
+- **SQL**
+- **HTML & CSS**
+
+---
+
+## 🌱 Em constante aprendizado
+
+Estou sempre explorando novas tecnologias e aprimorando minhas habilidades. Fique à vontade para acompanhar meus projetos e crescimento!
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=belzinn07&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## ✨ Frase que me inspira
+
+> "A cada linha de código um passo para um futuro melhor."
+
+---
+
+Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios e conectar-se comigo.
