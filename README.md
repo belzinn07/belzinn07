@@ -25,7 +25,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de Informática apaixonado p
 
 ## 💡 Sobre mim
 
-- Estudante focado em informática e desenvolvimento web/backend
+- Estudante focado em informática e desenvolvimento backend/andoid/web
 - Sempre explorando novas linguagens e ferramentas
 - Gosto de resolver problemas reais com código limpo e eficiente
 
