@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de Informática apaixonado por tecnologia, desenvolvimento de software e aprendizado constante.
 
----
+---![Animação de computador programando](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🚀 Projeto em Destaque
 
