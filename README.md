@@ -10,7 +10,6 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de Informática apaixonado p
   Exemplos, projetos e experiências com Java — do básico ao avançado!
 - [Sistema_de_pagamento](https://github.com/belzinn07/Sistema_de_pagamento): Payment system implementation.
 - [Site_Fala_Maria](https://github.com/belzinn07/Site_Fala_Maria): Web development for Fala Maria site.
-- [banco](https://github.com/belzinn07/banco): Banking application concepts.
 - [pizzaria](https://github.com/belzinn07/pizzaria): Pizza ordering and management system.
 ---
 
