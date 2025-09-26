@@ -1,42 +1,47 @@
 # 👋 Olá, eu sou belzinn07!
 
-Seja bem-vindo ao meu perfil no GitHub! Sou estudante de informática apaixonado por desenvolvimento e tecnologia. Aqui você encontrará meus projetos, ideias e contribuições para a comunidade open source.
+Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de Informática apaixonado por tecnologia, desenvolvimento de software e aprendizado constante.
 
 ---
 
 ## 🚀 Projeto em Destaque
 
-- [Desenvolvimento_java](https://github.com/belzinn07/Desenvolvimento_java)
+- [**Desenvolvimento_java**](https://github.com/belzinn07/Desenvolvimento_java)  
+  Exemplos, projetos e experiências com Java — do básico ao avançado!
+- [Sistema_de_pagamento](https://github.com/belzinn07/Sistema_de_pagamento): Payment system implementation.
+- [Site_Fala_Maria](https://github.com/belzinn07/Site_Fala_Maria): Web development for Fala Maria site.
+- [banco](https://github.com/belzinn07/banco): Banking application concepts.
+- [pizzaria](https://github.com/belzinn07/pizzaria): Pizza ordering and management system.
+---
+
+## 🛠️ Minhas Principais Skills
+
+- Java
+- PHP
+- SQL
+- HTML
+- CSS
 
 ---
 
-## 🛠️ Principais Habilidades
+## 💡 Sobre mim
 
-- **Java**
-- **PHP**
-- **SQL**
-- **HTML & CSS**
-
----
-
-## 🌱 Em constante aprendizado
-
-Estou sempre explorando novas tecnologias e aprimorando minhas habilidades. Fique à vontade para acompanhar meus projetos e crescimento!
+- Estudante focado em informática e desenvolvimento web/backend
+- Sempre explorando novas linguagens e ferramentas
+- Gosto de resolver problemas reais com código limpo e eficiente
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belzinn07&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=belzinn07&show_icons=true&theme=tokyonight)
 
 ---
 
-## ✨ Frase que me inspira
+## ✨ Vamos nos conectar!
 
-> "A cada linha de código um passo para um futuro melhor."
+<!-- Adicione aqui seus links de redes sociais, LinkedIn, portfólio, etc., se desejar -->
 
 ---
 
-Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios e conectar-se comigo.
+_Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e acompanhar meus aprendizados._
