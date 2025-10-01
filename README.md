@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou belzinn07!
+# 👋 Olá, eu sou Belmiro Neto!
 
 Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de Informática apaixonado por tecnologia, desenvolvimento de software e aprendizado constante.
 
